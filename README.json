@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T19:31:16Z",
+            "last_commit": "2026-08-15T08:12:20Z",
             "owner": "google",
             "repo": "filament",
-            "stars": 20355
+            "stars": 20359
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T01:04:55Z",
+            "last_commit": "2026-08-15T06:55:57Z",
             "owner": "bkaradzic",
             "repo": "bgfx",
-            "stars": 17396
+            "stars": 17398
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2025-07-03T23:20:30Z",
             "owner": "ConfettiFX",
             "repo": "The-Forge",
-            "stars": 5635
+            "stars": 5636
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-08-12T03:35:50Z",
             "owner": "DiligentGraphics",
             "repo": "DiligentEngine",
-            "stars": 4390
+            "stars": 4393
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2024-08-09T02:46:32Z",
             "owner": "openscenegraph",
             "repo": "OpenSceneGraph",
-            "stars": 3597
+            "stars": 3598
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2026-05-14T20:39:44Z",
             "owner": "stevenlovegrove",
             "repo": "Pangolin",
-            "stars": 2736
+            "stars": 2737
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2026-03-30T16:27:37Z",
             "owner": "LiangliangNan",
             "repo": "Easy3D",
-            "stars": 1646
+            "stars": 1647
           }
         },
         {
@@ -267,10 +267,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T19:21:18Z",
+            "last_commit": "2026-08-15T15:29:43Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17785
+            "stars": 17799
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-08-14T18:19:18Z",
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 115713
+            "stars": 115706
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-13T22:46:53Z",
             "owner": "raysan5",
             "repo": "raylib",
-            "stars": 34319
+            "stars": 34332
           }
         },
         {
@@ -343,10 +343,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T06:12:11Z",
+            "last_commit": "2026-08-15T06:53:52Z",
             "owner": "turanszkij",
             "repo": "WickedEngine",
-            "stars": 7182
+            "stars": 7186
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-14T00:50:23Z",
             "owner": "nem0",
             "repo": "LumixEngine",
-            "stars": 3863
+            "stars": 3864
           }
         },
         {
@@ -374,7 +374,7 @@
             "last_commit": "2026-06-18T21:30:02Z",
             "owner": "Overload-Technologies",
             "repo": "Overload",
-            "stars": 2461
+            "stars": 2463
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2026-08-13T10:46:58Z",
             "owner": "godlikepanos",
             "repo": "anki-3d-engine",
-            "stars": 1604
+            "stars": 1605
           }
         },
         {
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:39:16.443Z",
+    "last_updated": "2026-08-15T19:10:45.483Z",
     "original_repository": "jslee02/awesome-graphics-libraries",
     "original_repository_sha": "2d139979e76bec13311adb7234137c8e32982da9",
     "enhanced_repository": "enhansome/enhansome-graphics-libraries",
