@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 143455116,
                 "language": "C++",
-                "last_commit": "2026-08-23T08:06:00Z",
+                "last_commit": "2026-08-24T18:36:47Z",
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20390
+                "stars": 20392
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 3925242,
                 "language": "C++",
-                "last_commit": "2026-08-23T04:44:44Z",
+                "last_commit": "2026-08-24T18:10:04Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17429
+                "stars": 17430
               }
             },
             {
@@ -283,10 +283,10 @@
                 "archived": false,
                 "id": 148686316,
                 "language": "Rust",
-                "last_commit": "2026-08-24T14:06:28Z",
+                "last_commit": "2026-08-24T14:58:42Z",
                 "owner": "gfx-rs",
                 "repo": "wgpu",
-                "stars": 17854
+                "stars": 17855
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2026-06-24T16:05:29Z",
                 "owner": "asny",
                 "repo": "three-d",
-                "stars": 1662
+                "stars": 1663
               }
             }
           ],
@@ -341,10 +341,10 @@
                 "archived": false,
                 "id": 15634981,
                 "language": "C++",
-                "last_commit": "2026-08-21T21:08:08Z",
+                "last_commit": "2026-08-24T17:10:35Z",
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 116079
+                "stars": 116082
               }
             },
             {
@@ -359,7 +359,7 @@
                 "last_commit": "2026-08-24T14:19:56Z",
                 "owner": "raysan5",
                 "repo": "raylib",
-                "stars": 34455
+                "stars": 34458
               }
             },
             {
@@ -371,7 +371,7 @@
                 "archived": false,
                 "id": 354743391,
                 "language": "C++",
-                "last_commit": "2026-08-22T17:38:39Z",
+                "last_commit": "2026-08-24T16:59:52Z",
                 "owner": "o3de",
                 "repo": "o3de",
                 "stars": 9626
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:25:48.814Z",
+    "last_updated": "2026-08-24T19:19:03.358Z",
     "original_repository": "jslee02/awesome-graphics-libraries",
     "original_repository_id": 174568488,
     "original_repository_sha": "2d139979e76bec13311adb7234137c8e32982da9",
