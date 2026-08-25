@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 143455116,
                 "language": "C++",
-                "last_commit": "2026-08-24T18:36:47Z",
+                "last_commit": "2026-08-25T01:20:58Z",
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20392
+                "stars": 20393
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 3925242,
                 "language": "C++",
-                "last_commit": "2026-08-24T18:10:04Z",
+                "last_commit": "2026-08-25T05:57:58Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17430
+                "stars": 17431
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-16T20:18:01Z",
                 "owner": "DiligentGraphics",
                 "repo": "DiligentEngine",
-                "stars": 4410
+                "stars": 4413
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-05-20T05:55:33Z",
                 "owner": "nmwsharp",
                 "repo": "polyscope",
-                "stars": 2198
+                "stars": 2199
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2026-08-21T16:09:49Z",
                 "owner": "vsg-dev",
                 "repo": "VulkanSceneGraph",
-                "stars": 1810
+                "stars": 1809
               }
             },
             {
@@ -283,10 +283,10 @@
                 "archived": false,
                 "id": 148686316,
                 "language": "Rust",
-                "last_commit": "2026-08-24T14:58:42Z",
+                "last_commit": "2026-08-25T02:29:28Z",
                 "owner": "gfx-rs",
                 "repo": "wgpu",
-                "stars": 17855
+                "stars": 17860
               }
             },
             {
@@ -327,7 +327,7 @@
             "last_commit": "2026-08-22T01:50:20Z",
             "owner": "libigl",
             "repo": "libigl",
-            "stars": 5074
+            "stars": 5075
           }
         },
         {
@@ -341,10 +341,10 @@
                 "archived": false,
                 "id": 15634981,
                 "language": "C++",
-                "last_commit": "2026-08-24T17:10:35Z",
+                "last_commit": "2026-08-25T02:55:29Z",
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 116082
+                "stars": 116099
               }
             },
             {
@@ -359,7 +359,7 @@
                 "last_commit": "2026-08-24T14:19:56Z",
                 "owner": "raysan5",
                 "repo": "raylib",
-                "stars": 34458
+                "stars": 34463
               }
             },
             {
@@ -371,10 +371,10 @@
                 "archived": false,
                 "id": 354743391,
                 "language": "C++",
-                "last_commit": "2026-08-24T16:59:52Z",
+                "last_commit": "2026-08-24T20:19:57Z",
                 "owner": "o3de",
                 "repo": "o3de",
-                "stars": 9626
+                "stars": 9627
               }
             },
             {
@@ -386,10 +386,10 @@
                 "archived": false,
                 "id": 37770961,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:04:33Z",
+                "last_commit": "2026-08-24T23:40:55Z",
                 "owner": "turanszkij",
                 "repo": "WickedEngine",
-                "stars": 7199
+                "stars": 7198
               }
             },
             {
@@ -401,7 +401,7 @@
                 "archived": false,
                 "id": 14590125,
                 "language": "C++",
-                "last_commit": "2026-08-23T22:34:18Z",
+                "last_commit": "2026-08-24T22:38:49Z",
                 "owner": "nem0",
                 "repo": "LumixEngine",
                 "stars": 3869
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:19:03.358Z",
+    "last_updated": "2026-08-25T06:15:35.118Z",
     "original_repository": "jslee02/awesome-graphics-libraries",
     "original_repository_id": 174568488,
     "original_repository_sha": "2d139979e76bec13311adb7234137c8e32982da9",
