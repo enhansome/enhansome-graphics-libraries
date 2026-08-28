@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-26T22:33:08Z",
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20405
+                "stars": 20409
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 3925242,
                 "language": "C++",
-                "last_commit": "2026-08-26T06:40:47Z",
+                "last_commit": "2026-08-27T19:27:49Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17434
+                "stars": 17436
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 105600991,
                 "language": "C++",
-                "last_commit": "2025-07-03T23:20:30Z",
+                "last_commit": "2026-08-27T22:50:15Z",
                 "owner": "ConfettiFX",
                 "repo": "The-Forge",
                 "stars": 5642
@@ -74,10 +74,10 @@
                 "archived": false,
                 "id": 47069819,
                 "language": "C++",
-                "last_commit": "2026-08-26T18:57:48Z",
+                "last_commit": "2026-08-27T17:25:42Z",
                 "owner": "OGRECave",
                 "repo": "ogre",
-                "stars": 4638
+                "stars": 4640
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-16T20:18:01Z",
                 "owner": "DiligentGraphics",
                 "repo": "DiligentEngine",
-                "stars": 4416
+                "stars": 4417
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2024-08-09T02:46:32Z",
                 "owner": "openscenegraph",
                 "repo": "OpenSceneGraph",
-                "stars": 3608
+                "stars": 3607
               }
             },
             {
@@ -179,10 +179,10 @@
                 "archived": false,
                 "id": 159520915,
                 "language": "C++",
-                "last_commit": "2026-08-26T01:37:24Z",
+                "last_commit": "2026-08-27T15:34:06Z",
                 "owner": "LiangliangNan",
                 "repo": "Easy3D",
-                "stars": 1650
+                "stars": 1651
               }
             },
             {
@@ -283,10 +283,10 @@
                 "archived": false,
                 "id": 148686316,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:18:42Z",
+                "last_commit": "2026-08-27T22:17:01Z",
                 "owner": "gfx-rs",
                 "repo": "wgpu",
-                "stars": 17875
+                "stars": 17880
               }
             },
             {
@@ -341,10 +341,10 @@
                 "archived": false,
                 "id": 15634981,
                 "language": "C++",
-                "last_commit": "2026-08-27T01:39:48Z",
+                "last_commit": "2026-08-27T17:33:08Z",
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 116217
+                "stars": 116248
               }
             },
             {
@@ -374,7 +374,7 @@
                 "last_commit": "2026-08-25T07:18:33Z",
                 "owner": "o3de",
                 "repo": "o3de",
-                "stars": 9633
+                "stars": 9634
               }
             },
             {
@@ -404,7 +404,7 @@
                 "last_commit": "2026-08-26T22:10:43Z",
                 "owner": "nem0",
                 "repo": "LumixEngine",
-                "stars": 3869
+                "stars": 3870
               }
             },
             {
@@ -419,7 +419,7 @@
                 "last_commit": "2026-08-25T14:05:57Z",
                 "owner": "Overload-Technologies",
                 "repo": "Overload",
-                "stars": 2467
+                "stars": 2468
               }
             },
             {
@@ -431,7 +431,7 @@
                 "archived": false,
                 "id": 23955091,
                 "language": "C++",
-                "last_commit": "2026-08-26T08:03:29Z",
+                "last_commit": "2026-08-27T18:27:56Z",
                 "owner": "godlikepanos",
                 "repo": "anki-3d-engine",
                 "stars": 1610
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:41:38.258Z",
+    "last_updated": "2026-08-28T02:22:12.401Z",
     "original_repository_info": {
       "archived": false,
       "id": 174568488,
