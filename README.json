@@ -21,7 +21,7 @@
                 "open_issues": 212,
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20459,
+                "stars": 20462,
                 "topics": [
                   "3d-graphics",
                   "android",
@@ -52,11 +52,11 @@
                 "id": 3925242,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-05T19:46:02Z",
+                "last_commit": "2026-09-06T17:42:04Z",
                 "open_issues": 286,
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17461,
+                "stars": 17465,
                 "topics": [
                   "d3d11",
                   "d3d12",
@@ -219,7 +219,7 @@
                 "open_issues": 24,
                 "owner": "DiligentGraphics",
                 "repo": "DiligentEngine",
-                "stars": 4426,
+                "stars": 4428,
                 "topics": [
                   "3d-engine",
                   "d3d11",
@@ -311,7 +311,7 @@
                 "open_issues": 48,
                 "owner": "stevenlovegrove",
                 "repo": "Pangolin",
-                "stars": 2739,
+                "stars": 2740,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:40.995Z"
@@ -328,8 +328,8 @@
                 "id": 111565012,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-05-20T05:55:33Z",
-                "open_issues": 128,
+                "last_commit": "2026-09-06T01:42:27Z",
+                "open_issues": 127,
                 "owner": "nmwsharp",
                 "repo": "polyscope",
                 "stars": 2201,
@@ -554,10 +554,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-05T17:51:00Z",
-                "open_issues": 1247,
+                "open_issues": 1250,
                 "owner": "gfx-rs",
                 "repo": "wgpu",
-                "stars": 17944,
+                "stars": 17953,
                 "topics": [
                   "d3d12",
                   "gpu",
@@ -625,7 +625,7 @@
             "open_issues": 153,
             "owner": "libigl",
             "repo": "libigl",
-            "stars": 5081,
+            "stars": 5082,
             "topics": [
               "geometry-processing"
             ]
@@ -647,10 +647,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-04T14:14:56Z",
-                "open_issues": 18847,
+                "open_issues": 18876,
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 116647,
+                "stars": 116712,
                 "topics": [
                   "game-development",
                   "game-engine",
@@ -676,10 +676,10 @@
                 "language": "C",
                 "license": "Zlib",
                 "last_commit": "2026-09-05T19:22:28Z",
-                "open_issues": 18,
+                "open_issues": 20,
                 "owner": "raysan5",
                 "repo": "raylib",
-                "stars": 34600,
+                "stars": 34614,
                 "topics": [
                   "android",
                   "c",
@@ -716,11 +716,11 @@
                 "id": 354743391,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T17:35:25Z",
-                "open_issues": 3487,
+                "last_commit": "2026-09-05T23:32:08Z",
+                "open_issues": 3486,
                 "owner": "o3de",
                 "repo": "o3de",
-                "stars": 9656,
+                "stars": 9661,
                 "topics": [
                   "3d-graphics",
                   "3d-graphics-engine",
@@ -781,7 +781,7 @@
                 "id": 14590125,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-04T22:58:57Z",
+                "last_commit": "2026-09-05T22:55:11Z",
                 "open_issues": 35,
                 "owner": "nem0",
                 "repo": "LumixEngine",
@@ -812,10 +812,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-02T20:05:32Z",
-                "open_issues": 92,
+                "open_issues": 93,
                 "owner": "Overload-Technologies",
                 "repo": "Overload",
-                "stars": 2477,
+                "stars": 2478,
                 "topics": [
                   "3d-engine",
                   "3d-graphics",
@@ -915,7 +915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:45:08.049Z",
+    "last_updated": "2026-09-06T20:52:35.662Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of 3D graphics libraries and resources",
