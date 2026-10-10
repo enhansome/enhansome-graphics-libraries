@@ -21,7 +21,7 @@
                 "open_issues": 219,
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20579,
+                "stars": 20582,
                 "topics": [
                   "3d-graphics",
                   "android",
@@ -56,7 +56,7 @@
                 "open_issues": 284,
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17546,
+                "stars": 17548,
                 "topics": [
                   "d3d11",
                   "d3d12",
@@ -95,7 +95,7 @@
                 "open_issues": 15,
                 "owner": "ConfettiFX",
                 "repo": "The-Forge",
-                "stars": 5677,
+                "stars": 5680,
                 "topics": [
                   "android",
                   "directx",
@@ -261,7 +261,7 @@
                 "open_issues": 175,
                 "owner": "openscenegraph",
                 "repo": "OpenSceneGraph",
-                "stars": 3616,
+                "stars": 3615,
                 "topics": [
                   "c-plus-plus",
                   "cmake",
@@ -491,8 +491,8 @@
                 "id": 422605780,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T00:28:51Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-10T02:59:34Z",
+                "open_issues": 8,
                 "owner": "KhronosGroup",
                 "repo": "ANARI-SDK",
                 "stars": 305,
@@ -554,10 +554,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T14:45:50Z",
-                "open_issues": 1281,
+                "open_issues": 1283,
                 "owner": "gfx-rs",
                 "repo": "wgpu",
-                "stars": 18239,
+                "stars": 18245,
                 "topics": [
                   "d3d12",
                   "gpu",
@@ -622,10 +622,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-21T14:26:10Z",
-            "open_issues": 158,
+            "open_issues": 159,
             "owner": "libigl",
             "repo": "libigl",
-            "stars": 5101,
+            "stars": 5103,
             "topics": [
               "geometry-processing"
             ]
@@ -647,10 +647,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-09T20:18:11Z",
-                "open_issues": 18847,
+                "open_issues": 18859,
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 118173,
+                "stars": 118233,
                 "topics": [
                   "game-development",
                   "game-engine",
@@ -675,11 +675,11 @@
                 "id": 13836499,
                 "language": "C",
                 "license": "Zlib",
-                "last_commit": "2026-10-09T07:50:29Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-10T19:36:02Z",
+                "open_issues": 11,
                 "owner": "raysan5",
                 "repo": "raylib",
-                "stars": 35110,
+                "stars": 35142,
                 "topics": [
                   "android",
                   "c",
@@ -717,10 +717,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T20:15:40Z",
-                "open_issues": 3520,
+                "open_issues": 3521,
                 "owner": "o3de",
                 "repo": "o3de",
-                "stars": 9736,
+                "stars": 9739,
                 "topics": [
                   "3d-graphics",
                   "3d-graphics-engine",
@@ -748,7 +748,7 @@
                 "open_issues": 114,
                 "owner": "turanszkij",
                 "repo": "WickedEngine",
-                "stars": 7278,
+                "stars": 7280,
                 "topics": [
                   "audio",
                   "directx12",
@@ -781,7 +781,7 @@
                 "id": 14590125,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-09T16:10:49Z",
+                "last_commit": "2026-10-10T18:55:33Z",
                 "open_issues": 34,
                 "owner": "nem0",
                 "repo": "LumixEngine",
@@ -915,7 +915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T22:56:14.811Z",
+    "last_updated": "2026-10-10T22:02:13.618Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of 3D graphics libraries and resources",
