@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "🟢 Filament",
-              "description": "Real-time physically based rendering engine. ⭐ 20k",
+              "description": "Real-time physically based rendering engine. ⭐ 20.6k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -17,11 +17,11 @@
                 "id": 143455116,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T06:25:36Z",
-                "open_issues": 216,
+                "last_commit": "2026-10-19T22:33:37Z",
+                "open_issues": 215,
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20622,
+                "stars": 20632,
                 "topics": [
                   "3d-graphics",
                   "android",
@@ -43,7 +43,7 @@
             {
               "node_type": "item",
               "title": "🟢 bgfx",
-              "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style library. ⭐ 17k",
+              "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style library. ⭐ 17.6k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -52,11 +52,11 @@
                 "id": 3925242,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-17T22:49:10Z",
-                "open_issues": 71,
+                "last_commit": "2026-10-19T03:17:56Z",
+                "open_issues": 73,
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17571,
+                "stars": 17572,
                 "topics": [
                   "d3d11",
                   "d3d12",
@@ -81,7 +81,7 @@
             },
             {
               "node_type": "item",
-              "title": "🟢 The Forge - Cross-platform rendering framework. ⭐ 5.5k",
+              "title": "🟢 The Forge - Cross-platform rendering framework. ⭐ 5.7k",
               "description": "ConfettiFX/The-Forge",
               "children": [],
               "repo_info": {
@@ -95,7 +95,7 @@
                 "open_issues": 15,
                 "owner": "ConfettiFX",
                 "repo": "The-Forge",
-                "stars": 5695,
+                "stars": 5696,
                 "topics": [
                   "android",
                   "directx",
@@ -133,11 +133,11 @@
                 "id": 1182756,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T18:22:09Z",
+                "last_commit": "2026-10-19T09:41:44Z",
                 "open_issues": 77,
                 "owner": "mosra",
                 "repo": "magnum",
-                "stars": 5222,
+                "stars": 5224,
                 "topics": [
                   "3d",
                   "android",
@@ -166,7 +166,7 @@
             {
               "node_type": "item",
               "title": "🟢 OGRE3D",
-              "description": "Scene-oriented flexible 3D engine written in C++. ⭐ 4.6k",
+              "description": "Scene-oriented flexible 3D engine written in C++. ⭐ 4.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -175,11 +175,11 @@
                 "id": 47069819,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-18T20:10:46Z",
-                "open_issues": 171,
+                "last_commit": "2026-10-19T13:45:23Z",
+                "open_issues": 172,
                 "owner": "OGRECave",
                 "repo": "ogre",
-                "stars": 4680,
+                "stars": 4682,
                 "topics": [
                   "cpp",
                   "csharp",
@@ -206,7 +206,7 @@
             {
               "node_type": "item",
               "title": "🟢 Diligent Engine",
-              "description": "Modern cross-platform low-level graphics library. ⭐ 4.3k",
+              "description": "Modern cross-platform low-level graphics library. ⭐ 4.5k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -219,7 +219,7 @@
                 "open_issues": 23,
                 "owner": "DiligentGraphics",
                 "repo": "DiligentEngine",
-                "stars": 4476,
+                "stars": 4480,
                 "topics": [
                   "3d-engine",
                   "d3d11",
@@ -258,10 +258,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2024-08-09T02:46:32Z",
-                "open_issues": 175,
+                "open_issues": 176,
                 "owner": "openscenegraph",
                 "repo": "OpenSceneGraph",
-                "stars": 3619,
+                "stars": 3622,
                 "topics": [
                   "c-plus-plus",
                   "cmake",
@@ -276,8 +276,8 @@
             },
             {
               "node_type": "item",
-              "title": "🟡 Falcor",
-              "description": "Real-time rendering framework designed specifically for rapid prototyping. ⭐ 3.2k",
+              "title": "🟢 Falcor",
+              "description": "Real-time rendering framework designed specifically for rapid prototyping. ⭐ 3.3k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -297,7 +297,7 @@
             },
             {
               "node_type": "item",
-              "title": "🟢 Pangolin - lightweight and portable utility libraries for prototyping 3D. ⭐ 2.7k",
+              "title": "🟢 Pangolin - lightweight and portable utility libraries for prototyping 3D. ⭐ 2.8k",
               "description": "stevenlovegrove/Pangolin",
               "children": [],
               "repo_info": {
@@ -353,7 +353,7 @@
                 "open_issues": 57,
                 "owner": "vsg-dev",
                 "repo": "VulkanSceneGraph",
-                "stars": 1820,
+                "stars": 1821,
                 "topics": [
                   "android",
                   "best-practices",
@@ -370,7 +370,7 @@
             },
             {
               "node_type": "item",
-              "title": "🟢 Easy3D - A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data ⭐ 1.6k",
+              "title": "🟢 Easy3D - A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data ⭐ 1.7k",
               "description": "LiangliangNan/Easy3D",
               "children": [],
               "repo_info": {
@@ -436,7 +436,7 @@
             {
               "node_type": "item",
               "title": "🔴 Taichi",
-              "description": "Computer graphics R&D infrastructure ⭐ 411",
+              "description": "Computer graphics R&D infrastructure ⭐ 413",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -456,8 +456,8 @@
             },
             {
               "node_type": "item",
-              "title": "🟡 RAMSES",
-              "description": "3D engine designed for embedded real-time and distributed rendering ⭐ 376",
+              "title": "🔴 RAMSES",
+              "description": "3D engine designed for embedded real-time and distributed rendering ⭐ 382",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -481,7 +481,7 @@
             },
             {
               "node_type": "item",
-              "title": "🟢 ANARI-SDK - ANARI Software Development Kit for 3D rendering and visualization. ⭐ 287",
+              "title": "🟢 ANARI-SDK - ANARI Software Development Kit for 3D rendering and visualization. ⭐ 305",
               "description": "KhronosGroup/ANARI-SDK",
               "children": [],
               "repo_info": {
@@ -492,7 +492,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T21:06:41Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "KhronosGroup",
                 "repo": "ANARI-SDK",
                 "stars": 305,
@@ -514,7 +514,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 OWL",
-                  "description": "A convenience/productivity-oriented library on top of OptiX ⭐ 257",
+                  "description": "A convenience/productivity-oriented library on top of OptiX ⭐ 259",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -544,7 +544,7 @@
             {
               "node_type": "item",
               "title": "🟢 wgpu",
-              "description": "is a cross-platform, safe, Rust graphics API. It runs natively on Vulkan, Metal, D3D12, D3D11, and OpenGLES; and on top of WebGPU/WebGL on wasm. The API is based on the WebGPU standard. It serves as the core of the WebGPU integration in Firefox, Servo, and Deno. ⭐ 17.1k",
+              "description": "is a cross-platform, safe, Rust graphics API. It runs natively on Vulkan, Metal, D3D12, D3D11, and OpenGLES; and on top of WebGPU/WebGL on wasm. The API is based on the WebGPU standard. It serves as the core of the WebGPU integration in Firefox, Servo, and Deno. ⭐ 18.3k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -553,11 +553,11 @@
                 "id": 148686316,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T19:03:07Z",
-                "open_issues": 1311,
+                "last_commit": "2026-10-19T17:26:13Z",
+                "open_issues": 1317,
                 "owner": "gfx-rs",
                 "repo": "wgpu",
-                "stars": 18322,
+                "stars": 18337,
                 "topics": [
                   "d3d12",
                   "gpu",
@@ -574,7 +574,7 @@
             {
               "node_type": "item",
               "title": "🟢 three-d",
-              "description": "An OpenGL/WebGL/OpenGL ES renderer in Rust which seeks to make graphics simple but still have the power to draw exactly what you want. ⭐ 1.6k",
+              "description": "An OpenGL/WebGL/OpenGL ES renderer in Rust which seeks to make graphics simple but still have the power to draw exactly what you want. ⭐ 1.7k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -612,7 +612,7 @@
         {
           "node_type": "item",
           "title": "🟢 libigl",
-          "description": "Simple C++ geometry processing library. ⭐ 5k",
+          "description": "Simple C++ geometry processing library. ⭐ 5.1k",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -637,7 +637,7 @@
             {
               "node_type": "item",
               "title": "🟢 GODOT",
-              "description": "Multi-platform 2D and 3D game engine. ⭐ 110.5k",
+              "description": "Multi-platform 2D and 3D game engine. ⭐ 118.4k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -646,11 +646,11 @@
                 "id": 15634981,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-18T08:33:01Z",
-                "open_issues": 18919,
+                "last_commit": "2026-10-19T20:57:28Z",
+                "open_issues": 18896,
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 118627,
+                "stars": 118704,
                 "topics": [
                   "game-development",
                   "game-engine",
@@ -666,7 +666,7 @@
             {
               "node_type": "item",
               "title": "🟢 raylib",
-              "description": "A simple and easy-to-use library to enjoy videogames programming. ⭐ 32.9k",
+              "description": "A simple and easy-to-use library to enjoy videogames programming. ⭐ 35.2k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -675,11 +675,11 @@
                 "id": 13836499,
                 "language": "C",
                 "license": "Zlib",
-                "last_commit": "2026-10-18T13:36:22Z",
+                "last_commit": "2026-10-19T21:24:41Z",
                 "open_issues": 8,
                 "owner": "raysan5",
                 "repo": "raylib",
-                "stars": 35293,
+                "stars": 35323,
                 "topics": [
                   "android",
                   "c",
@@ -707,7 +707,7 @@
             {
               "node_type": "item",
               "title": "🟢 O3DE",
-              "description": "Real-time 3D development engine. ⭐ 9.1k",
+              "description": "Real-time 3D development engine. ⭐ 9.8k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -716,11 +716,11 @@
                 "id": 354743391,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T15:48:24Z",
-                "open_issues": 3520,
+                "last_commit": "2026-10-19T20:02:59Z",
+                "open_issues": 3515,
                 "owner": "o3de",
                 "repo": "o3de",
-                "stars": 9759,
+                "stars": 9763,
                 "topics": [
                   "3d-graphics",
                   "3d-graphics-engine",
@@ -735,7 +735,7 @@
             {
               "node_type": "item",
               "title": "🟢 Wicked Engine",
-              "description": "C++ game engine focusing on modern rendering techniques. ⭐ 7k",
+              "description": "C++ game engine focusing on modern rendering techniques. ⭐ 7.3k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -744,11 +744,11 @@
                 "id": 37770961,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-18T05:36:37Z",
+                "last_commit": "2026-10-19T15:11:17Z",
                 "open_issues": 113,
                 "owner": "turanszkij",
                 "repo": "WickedEngine",
-                "stars": 7301,
+                "stars": 7303,
                 "topics": [
                   "audio",
                   "directx12",
@@ -772,7 +772,7 @@
             {
               "node_type": "item",
               "title": "🟢 LumixEngine",
-              "description": "Open source 3D Game Engine. ⭐ 3.8k",
+              "description": "Open source 3D Game Engine. ⭐ 3.9k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -781,7 +781,7 @@
                 "id": 14590125,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-18T20:46:46Z",
+                "last_commit": "2026-10-18T22:58:08Z",
                 "open_issues": 34,
                 "owner": "nem0",
                 "repo": "LumixEngine",
@@ -802,7 +802,7 @@
             {
               "node_type": "item",
               "title": "🟢 Overload",
-              "description": "Game engine inspired by industry standards. ⭐ 2.4k",
+              "description": "Game engine inspired by industry standards. ⭐ 2.5k",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -872,7 +872,7 @@
             {
               "node_type": "item",
               "title": "🔴 Rootex",
-              "description": "Advanced C++ 3D game engine. ⭐ 231",
+              "description": "Advanced C++ 3D game engine. ⭐ 235",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -915,7 +915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:06:09.470Z",
+    "last_updated": "2026-10-19T22:39:37.674Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of 3D graphics libraries and resources",
@@ -923,8 +923,8 @@
       "id": 174568488,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-15T13:01:55Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-19T15:21:33Z",
+      "open_issues": 2,
       "owner": "jslee02",
       "repo": "awesome-graphics-libraries",
       "stars": 542,
@@ -938,7 +938,7 @@
         "graphics-library"
       ]
     },
-    "original_repository_sha": "2d139979e76bec13311adb7234137c8e32982da9",
+    "original_repository_sha": "cb1a8bd0612f272df353e49a0e624b7d02ca96e5",
     "enhanced_repository": "enhansome/enhansome-graphics-libraries",
     "enhanced_repository_description": null,
     "title": "Awesome Graphics Libraries with stars"
