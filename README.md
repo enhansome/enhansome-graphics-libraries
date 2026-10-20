@@ -18,17 +18,17 @@ A curated list of C++ graphics libraries
 
 ### C++
 
-* 🟢 [Filament](https://google.github.io/filament/) - Real-time physically based rendering engine. [⭐ 20.6k](https://github.com/google/filament) ⭐ 20,632 | 🐛 215 | 🌐 C++ | 📅 2026-10-19
-* 🟢 [bgfx](https://bkaradzic.github.io/bgfx/overview.html) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style library. [⭐ 17.6k](https://github.com/bkaradzic/bgfx) ⭐ 17,572 | 🐛 73 | 🌐 C++ | 📅 2026-10-19
+* 🟢 [Filament](https://google.github.io/filament/) - Real-time physically based rendering engine. [⭐ 20.6k](https://github.com/google/filament) ⭐ 20,634 | 🐛 206 | 🌐 C++ | 📅 2026-10-20
+* 🟢 [bgfx](https://bkaradzic.github.io/bgfx/overview.html) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style library. [⭐ 17.6k](https://github.com/bkaradzic/bgfx) ⭐ 17,573 | 🐛 71 | 🌐 C++ | 📅 2026-10-20
 * 🟢 The Forge - Cross-platform rendering framework. [⭐ 5.7k](https://github.com/ConfettiFX/The-Forge) ⭐ 5,696 | 🐛 15 | 🌐 C++ | 📅 2026-08-27
-* 🟢 [Magnum](https://magnum.graphics/) - Lightweight and modular graphics middleware for games and data visualization. [⭐ 5.2k](https://github.com/mosra/magnum) ⭐ 5,224 | 🐛 77 | 🌐 C++ | 📅 2026-10-19
-* 🟢 [OGRE3D](https://www.ogre3d.org/) - Scene-oriented flexible 3D engine written in C++. [⭐ 4.7k](https://github.com/OGRECave/ogre) ⭐ 4,682 | 🐛 172 | 🌐 C++ | 📅 2026-10-19
-* 🟢 [Diligent Engine](http://diligentgraphics.com/diligent-engine/) - Modern cross-platform low-level graphics library. [⭐ 4.5k](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,480 | 🐛 23 | 🌐 Batchfile | 📅 2026-10-16
-* 🔴 [OpenSceneGraph](http://www.openscenegraph.org/) - High performance 3D graphics toolkit. [⭐ 3.6k](https://github.com/openscenegraph/OpenSceneGraph) ⭐ 3,622 | 🐛 176 | 🌐 C++ | 📅 2024-08-09
+* 🟢 [Magnum](https://magnum.graphics/) - Lightweight and modular graphics middleware for games and data visualization. [⭐ 5.2k](https://github.com/mosra/magnum) ⭐ 5,224 | 🐛 76 | 🌐 C++ | 📅 2026-10-19
+* 🟢 [OGRE3D](https://www.ogre3d.org/) - Scene-oriented flexible 3D engine written in C++. [⭐ 4.7k](https://github.com/OGRECave/ogre) ⭐ 4,682 | 🐛 171 | 🌐 C++ | 📅 2026-10-20
+* 🟢 [Diligent Engine](http://diligentgraphics.com/diligent-engine/) - Modern cross-platform low-level graphics library. [⭐ 4.5k](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,482 | 🐛 23 | 🌐 Batchfile | 📅 2026-10-16
+* 🔴 [OpenSceneGraph](http://www.openscenegraph.org/) - High performance 3D graphics toolkit. [⭐ 3.6k](https://github.com/openscenegraph/OpenSceneGraph) ⭐ 3,623 | 🐛 176 | 🌐 C++ | 📅 2024-08-09
 * 🟢 [Falcor](https://developer.nvidia.com/falcor) - Real-time rendering framework designed specifically for rapid prototyping. [⭐ 3.3k](https://github.com/NVIDIAGameWorks/Falcor) ⭐ 3,256 | 🐛 67 | 🌐 C++ | 📅 2026-09-21
 * 🟢 Pangolin - lightweight and portable utility libraries for prototyping 3D. [⭐ 2.8k](https://github.com/stevenlovegrove/Pangolin) ⭐ 2,751 | 🐛 48 | 🌐 C++ | 📅 2026-08-19
 * 🟢 [Polyscope](http://polyscope.run/) - Prototyping-oriented UI for geometric algorithms. [⭐ 2.2k](https://github.com/nmwsharp/polyscope) ⭐ 2,219 | 🐛 127 | 🌐 C++ | 📅 2026-09-06
-* 🟢 [VulkanSceneGraph](https://vsg-dev.github.io/vsg-dev.io/) - Vulkan & C++17 based Scene Graph Project [⭐ 1.8k](https://github.com/vsg-dev/VulkanSceneGraph) ⭐ 1,821 | 🐛 57 | 🌐 C++ | 📅 2026-10-11
+* 🟢 [VulkanSceneGraph](https://vsg-dev.github.io/vsg-dev.io/) - Vulkan & C++17 based Scene Graph Project [⭐ 1.8k](https://github.com/vsg-dev/VulkanSceneGraph) ⭐ 1,822 | 🐛 57 | 🌐 C++ | 📅 2026-10-11
 * 🟢 Easy3D - A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data [⭐ 1.7k](https://github.com/LiangliangNan/Easy3D) ⭐ 1,657 | 🐛 5 | 🌐 C++ | 📅 2026-08-27
 * 🟢 [OSPRay](http://www.ospray.org/) - Ray tracing based rendering engine for high-fidelity visualization. [⭐ 1.1k](https://github.com/ospray/OSPRay) ⭐ 1,103 | 🐛 55 | 🌐 C++ | 📅 2026-10-14
 * 🔴 [Taichi](http://taichi.graphics/) - Computer graphics R\&D infrastructure [⭐ 413](https://github.com/yuanming-hu/taichi) ⭐ 413 | 🐛 1 | 🌐 C++ | 📅 2023-09-16
@@ -40,21 +40,21 @@ A curated list of C++ graphics libraries
 
 ### Rust
 
-* 🟢 [wgpu](https://wgpu.rs/) - is a cross-platform, safe, Rust graphics API. It runs natively on Vulkan, Metal, D3D12, D3D11, and OpenGLES; and on top of WebGPU/WebGL on wasm. The API is based on the WebGPU standard. It serves as the core of the WebGPU integration in Firefox, Servo, and Deno. [⭐ 18.3k](https://github.com/gfx-rs/wgpu) ⭐ 18,337 | 🐛 1,317 | 🌐 Rust | 📅 2026-10-19
+* 🟢 [wgpu](https://wgpu.rs/) - is a cross-platform, safe, Rust graphics API. It runs natively on Vulkan, Metal, D3D12, D3D11, and OpenGLES; and on top of WebGPU/WebGL on wasm. The API is based on the WebGPU standard. It serves as the core of the WebGPU integration in Firefox, Servo, and Deno. [⭐ 18.3k](https://github.com/gfx-rs/wgpu) ⭐ 18,343 | 🐛 1,318 | 🌐 Rust | 📅 2026-10-20
 * 🟢 [three-d](https://github.com/asny/three-d/) ⭐ 1,682 | 🐛 28 | 🌐 Rust | 📅 2026-06-24 - An OpenGL/WebGL/OpenGL ES renderer in Rust which seeks to make graphics simple but still have the power to draw exactly what you want. [⭐ 1.7k](https://github.com/asny/three-d) ⭐ 1,682 | 🐛 28 | 🌐 Rust | 📅 2026-06-24
 
 ## [Geometry Processing](#contents)
 
-* 🟢 [libigl](https://libigl.github.io/) - Simple C++ geometry processing library. [⭐ 5.1k](https://github.com/libigl/libigl) ⭐ 5,105 | 🐛 162 | 🌐 C++ | 📅 2026-09-21
+* 🟢 [libigl](https://libigl.github.io/) - Simple C++ geometry processing library. [⭐ 5.1k](https://github.com/libigl/libigl) ⭐ 5,106 | 🐛 161 | 🌐 C++ | 📅 2026-09-21
 
 ### Game Engines
 
-* 🟢 [GODOT](https://godotengine.org/) - Multi-platform 2D and 3D game engine. [⭐ 118.4k](https://github.com/godotengine/godot) ⭐ 118,704 | 🐛 18,896 | 🌐 C++ | 📅 2026-10-19
-* 🟢 [raylib](https://www.raylib.com/) - A simple and easy-to-use library to enjoy videogames programming. [⭐ 35.2k](https://github.com/raysan5/raylib) ⭐ 35,323 | 🐛 8 | 🌐 C | 📅 2026-10-19
-* 🟢 [O3DE](https://o3de.org/) - Real-time 3D development engine. [⭐ 9.8k](https://github.com/o3de/o3de) ⭐ 9,763 | 🐛 3,515 | 🌐 C++ | 📅 2026-10-19
-* 🟢 [Wicked Engine](https://wickedengine.net/) - C++ game engine focusing on modern rendering techniques. [⭐ 7.3k](https://github.com/turanszkij/WickedEngine) ⭐ 7,303 | 🐛 113 | 🌐 C++ | 📅 2026-10-19
-* 🟢 [LumixEngine](https://mikulasflorek.itch.io/lumix-engine) - Open source 3D Game Engine. [⭐ 3.9k](https://github.com/nem0/lumixengine) ⭐ 3,896 | 🐛 34 | 🌐 C++ | 📅 2026-10-18
-* 🟢 [Overload](http://overloadengine.org/) - Game engine inspired by industry standards. [⭐ 2.5k](https://github.com/adriengivry/Overload) ⭐ 2,497 | 🐛 107 | 🌐 C++ | 📅 2026-10-05
+* 🟢 [GODOT](https://godotengine.org/) - Multi-platform 2D and 3D game engine. [⭐ 118.4k](https://github.com/godotengine/godot) ⭐ 118,755 | 🐛 18,907 | 🌐 C++ | 📅 2026-10-20
+* 🟢 [raylib](https://www.raylib.com/) - A simple and easy-to-use library to enjoy videogames programming. [⭐ 35.2k](https://github.com/raysan5/raylib) ⭐ 35,338 | 🐛 8 | 🌐 C | 📅 2026-10-20
+* 🟢 [O3DE](https://o3de.org/) - Real-time 3D development engine. [⭐ 9.8k](https://github.com/o3de/o3de) ⭐ 9,767 | 🐛 3,519 | 🌐 C++ | 📅 2026-10-19
+* 🟢 [Wicked Engine](https://wickedengine.net/) - C++ game engine focusing on modern rendering techniques. [⭐ 7.3k](https://github.com/turanszkij/WickedEngine) ⭐ 7,303 | 🐛 114 | 🌐 C++ | 📅 2026-10-20
+* 🟢 [LumixEngine](https://mikulasflorek.itch.io/lumix-engine) - Open source 3D Game Engine. [⭐ 3.9k](https://github.com/nem0/lumixengine) ⭐ 3,896 | 🐛 34 | 🌐 C++ | 📅 2026-10-20
+* 🟢 [Overload](http://overloadengine.org/) - Game engine inspired by industry standards. [⭐ 2.5k](https://github.com/adriengivry/Overload) ⭐ 2,498 | 🐛 107 | 🌐 C++ | 📅 2026-10-05
 * 🟢 [AnKi 3D Engine](http://anki3d.org/) - Vulkan backend, modern renderer, scripting, physics and more [⭐ 1.6k](https://github.com/godlikepanos/anki-3d-engine) ⭐ 1,625 | 🐛 12 | 🌐 C++ | 📅 2026-10-07
 * 🔴 [Rootex](https://rootex.readthedocs.io/) - Advanced C++ 3D game engine. [⭐ 235](https://github.com/sdslabs/Rootex) ⭐ 235 | 🐛 60 | 🌐 C++ | 📅 2025-05-04
 * [CRYENGINE](https://www.cryengine.com/)
@@ -74,4 +74,4 @@ Contributions are very welcome. Please read the [contribution guidelines](CONTRI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
